@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BtSoxo</string>
+    <string name="app_name">Kết quả xổ số</string>
+    <string name="title">Xổ số miền Nam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_1">Hello fragment 1</string>
+    <string name="hello_fragment_2">Hello fragment 2</string>
 </resources>
